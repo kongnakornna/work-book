@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 9 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับผู้บริหาร ได้แก่ Governance Structure, KPI Dashboard เชิงลึก, Reporting Cadence (Weekly/Monthly/Quarterly), Decision Frameworks, Budget & Resource Management, Risk Management, Steering Committee Protocol, Change Control, Benefits Realization และ Templates ที่ใช้ได้จริง
 
 ---
-
 ## 9.0 บทนำและกลุ่มเป้าหมาย
 
 คู่มือนี้สำหรับ **ผู้บริหารและผู้มีส่วนได้ส่วนเสีย** ที่ต้องการติดตาม กำกับ และตัดสินใจเชิงกลยุทธ์เกี่ยวกับโครงการ FinTech & Accounting Technology

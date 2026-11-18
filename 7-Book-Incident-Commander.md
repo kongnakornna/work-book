@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 7 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติที่จำเป็นสำหรับการทำงานจริง ได้แก่ On-call Rotation, Triage Decision Tree, Runbooks รายScenario, Escalation Matrix, Communication Templates, War Room Protocol และ Handover Procedure
 
 ---
-
 ## 7.0 บทนำและขอบเขต
 
 คู่มือนี้ครอบคลุม **สองบทบาทที่เกี่ยวข้องกันแต่ต่างกัน**:

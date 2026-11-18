@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 15 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับ Tech Lead, HR และสมาชิกใหม่ ได้แก่ Onboarding Program (30-60-90 วัน), Buddy System, Documentation Standards (Deep Dive), Knowledge Base Structure, Documentation-as-Code, Knowledge Sharing Practices, Training Curriculum, Bus Factor Management, Offboarding, Templates ครบชุด และ KPIs
 
 ---
-
 ## 15.0 บทนำและปรัชญา
 
 ### 15.0.1 ทำไม Knowledge Management & Onboarding ถึงสำคัญ?

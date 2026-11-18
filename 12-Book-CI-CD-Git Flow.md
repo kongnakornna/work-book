@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 12 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับ Developer และ DevOps ได้แก่ Git Flow เชิงลึก, Branch Lifecycle, Commit Convention, CI/CD Pipeline Stages (ครบทุกขั้น), GitHub Actions Workflows จริง, Environment Management, Database Migration Pipeline, Security Scanning, Artifact Management, Deployment Strategies, Monorepo Considerations, Templates และ KPIs
 
 ---
-
 ## 12.0 บทนำและปรัชญา
 
 ### 12.0.1 ทำไมต้อง CI/CD & Git Flow?

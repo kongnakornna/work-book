@@ -2,7 +2,6 @@
 ## Financial & Accounting Technology Solutions
 
 ---
-
 # 📑 สารบัญ (Table of Contents)
 
 - [1. บทนำ (Introduction)](#1-บทนำ-introduction)

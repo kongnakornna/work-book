@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 8 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับผู้ใช้จริง ได้แก่ Field-by-Field Guide, Business Rules, Approval Workflow, Error Code Reference, Period-End Close, Key User / UAT Guide, FAQ และ Glossary
 
 ---
-
 ## 8.0 บทนำและกลุ่มเป้าหมาย
 
 คู่มือนี้สำหรับ **ผู้ใช้ด้านการเงินและบัญชี** ที่ใช้งานระบบ **PMS (Payment Management System)** ในชีวิตประจำวัน

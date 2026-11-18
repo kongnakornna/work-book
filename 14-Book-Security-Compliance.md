@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 14 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับทุกฝ่ายที่เกี่ยวข้องกับความปลอดภัยของระบบ FinTech & Accounting ได้แก่ Threat Modeling, OWASP Top 10 (Deep Dive), Authentication & Authorization Patterns, Secrets Management, Data Protection & Encryption, Security Testing, Secure SDLC, Compliance Frameworks (PDPA/GDPR/PCI-DSS/SOX/ISO 27001), Security Incident Response, Audit & Evidence, Templates และ KPIs
 
 ---
-
 ## 14.0 บทนำและปรัชญา
 
 ### 14.0.1 ทำไม Security & Compliance ถึงสำคัญ?

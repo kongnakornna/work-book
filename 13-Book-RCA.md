@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 13 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับการวิเคราะห์หาสาเหตุราก ได้แก่ RCA Types & Triggers, 6-Step Process (Deep Dive), Tools ขั้นสูง (5 Whys, Fishbone, FTA, Kepner-Tregoe, Apollo), Timeline Reconstruction, Evidence Collection, Blameless Culture, Contributing Factors, Action Planning, Postmortem Protocol, Templates ครบชุด และ KPIs
 
 ---
-
 ## 13.0 บทนำและปรัชญา
 
 ### 13.0.1 RCA คืออะไร (ไม่ใช่อะไร)

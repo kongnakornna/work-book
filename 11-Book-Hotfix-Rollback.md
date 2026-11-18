@@ -3,7 +3,6 @@
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 11 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับการแก้ไข Production แบบเร่งด่วน ได้แก่ Hotfix Decision Tree, Approval Workflow, Fast-track Testing, Rollback Strategies (Blue-Green/Canary/K8s/DB), Database Migration Hotfix, Communication Protocol, Verification Checklist, Post-Hotfix Procedures, Templates และ Runbooks รายScenario
 
 ---
-
 ## 11.0 บทนำและปรัชญา
 
 ### 11.0.1 Hotfix vs Normal Fix vs Emergency
