@@ -1,0 +1,23 @@
+วิธีรันบน macOS (ห้ามดับเบิลคลิกไฟล์ .sh)
+How to run on macOS (do NOT double-click the .sh files)
+
+1) เปิด Terminal: กด Cmd + Space พิมพ์ Terminal แล้วกด Enter
+   Open Terminal: press Cmd + Space, type Terminal, press Enter
+
+2) พิมพ์คำว่า  bash  ตามด้วยเว้นวรรค 1 ครั้ง (ยังไม่ต้องกด Enter)
+   Type  bash  followed by ONE space (do not press Enter yet)
+
+3) ลากไฟล์ 1_setup.sh จากหน้าต่าง Finder นี้ ไปวางในหน้าต่าง Terminal
+   Drag 1_setup.sh from this Finder window into the Terminal window
+
+   จะได้ประมาณนี้ / It will look like:
+   bash /Users/yourname/Downloads/ta1-pea-lab-kit/macOS-Linux/1_setup.sh
+
+4) กด Enter  แล้วรอจนขึ้น SUCCESS
+   Press Enter and wait for SUCCESS
+
+5) ทำซ้ำขั้นที่ 2-4 กับไฟล์ 2_check.sh  (หลังจบอบรมใช้ 3_uninstall.sh)
+   Repeat steps 2-4 with 2_check.sh  (after the course: 3_uninstall.sh)
+
+ถ้าเผลอดับเบิลคลิกแล้วขึ้น "Apple could not verify ..." ให้กด Done (ห้ามกด Move to Trash)
+If you double-clicked and see "Apple could not verify ...", click Done (NOT Move to Trash).

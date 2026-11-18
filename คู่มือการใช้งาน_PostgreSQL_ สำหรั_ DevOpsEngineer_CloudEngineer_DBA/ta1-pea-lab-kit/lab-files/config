@@ -1,0 +1,57 @@
+# PEA Lab - SSH config for ta1 (v8, 29 Oct 2026)
+# lab-*  = via Bastion 1 (default path)
+# alt-*  = via Bastion 2 (backup path)
+Host pea-bastion1
+    HostName 146.190.6.43
+Host pea-bastion2
+    HostName 159.89.209.96
+Host lab-tunnel
+    HostName 146.190.6.43
+Host alt-tunnel
+    HostName 159.89.209.96
+Host pea-bastion1 pea-bastion2 lab-tunnel alt-tunnel
+    User ta1
+    IdentityFile ~/.ssh/pea-lab/id_lab
+    IdentitiesOnly yes
+    UserKnownHostsFile ~/.ssh/pea-lab/known_hosts
+    StrictHostKeyChecking accept-new
+    ConnectTimeout 10
+    ServerAliveInterval 30
+    ServerAliveCountMax 4
+    LogLevel ERROR
+
+# ssh lab-tunnel  = keep this window open; then use localhost:PORT on your notebook
+Host lab-tunnel alt-tunnel
+    SessionType none
+    RequestTTY no
+    ExitOnForwardFailure yes
+    LocalForward 127.0.0.1:15432 ta1-pg1:5432
+    LocalForward 127.0.0.1:15433 ta1-pg2:5432
+    LocalForward 127.0.0.1:16432 ta1-infra:6432
+    LocalForward 127.0.0.1:15000 ta1-infra:5000
+    LocalForward 127.0.0.1:15001 ta1-infra:5001
+    LocalForward 127.0.0.1:13000 ta1-infra:3000
+    LocalForward 127.0.0.1:19090 ta1-infra:9090
+    LocalForward 127.0.0.1:18025 ta1-infra:8025
+
+Host lab-pg1 alt-pg1
+    HostName ta1-pg1
+Host lab-pg2 alt-pg2
+    HostName ta1-pg2
+Host lab-infra alt-infra
+    HostName ta1-infra
+Host lab-* !lab-tunnel
+    ProxyJump pea-bastion1
+Host alt-* !alt-tunnel
+    ProxyJump pea-bastion2
+
+Host lab-* alt-* !lab-tunnel !alt-tunnel
+    User student
+    IdentityFile ~/.ssh/pea-lab/id_lab
+    IdentitiesOnly yes
+    UserKnownHostsFile ~/.ssh/pea-lab/known_hosts
+    StrictHostKeyChecking accept-new
+    ConnectTimeout 10
+    ServerAliveInterval 30
+    ServerAliveCountMax 4
+    LogLevel ERROR
