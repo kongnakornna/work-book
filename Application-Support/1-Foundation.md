@@ -2620,9 +2620,3 @@ KPI SMART คือตัวชี้วัดผลการดำเนิน�
 > **"PSR Blameless + RCA ถึง Process + KPI SMART" — หัวใจของทีม Support ที่ยั่งยืน**
 
 ---
-
-**— จบเล่ม 1 —**
-
-*เวอร์ชัน 1.0 | จัดทำโดยทีม Application Support | วันที่: 18 พฤศจิกายน 2026*
-
-> **หมายเหตุ:** เล่มนี้เป็น Living Document ควรทบทวนทุก 6 เดือน หรือเมื่อมี Veränderung ที่สำคัญใน Technology Stack และ Workflow ขององค์กร
