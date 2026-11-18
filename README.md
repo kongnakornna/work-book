@@ -52,7 +52,7 @@ Architect	System / Software Architect	อาร์-คิ-เทคต์	สถ
 - เล่ม 11 [คู่มือ Hotfix & Rollback  => DevOps, Lead, On-call](11-Book-HotfixRollback.md) 
 - เล่ม 12 [คู่มือ CI/CD & Git Flow  => Developer, DevOps](12-Book-CICD.md) 
 - เล่ม 13 [คู่มือ RCA (Root Cause Analysis)  => ทุกฝ่าย](13-Book-RCA.md) 
-- เล่ม 14 [คู่มือ Security & Compliance  => Security, Dev, DevOps](14-Book-SecurityCompliance.md) 
+- เล่ม 14 [คู่มือ Security & Compliance  => Security, Dev, DevOps](14-Book-Security-Compliance.md) 
 - เล่ม 15 [คู่มือ Knowledge Management & Onboarding  => Tech Lead, HR, ทุกคน](15-Book-KnowledgeManagement-Onboarding.md) 
 
 ---
