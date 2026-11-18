@@ -63,12 +63,12 @@
 
   ┌──────────────────────┐
   │  EXPLICIT KNOWLEDGE  │  เขียนออกมาได้ (Documentation)
-  │  (ชัดแจ้ง)           │  → Wiki, README, ADR
+  │  (ชัดแจ้ง)             │  → Wiki, README, ADR
   └──────────────────────┘
 
   ┌──────────────────────┐
   │  TACIT KNOWLEDGE     │  อยู่ในหัวคน (Experience)
-  │  (ซ่อนเร้น)          │  → Pair Programming, Mentoring
+  │  (ซ่อนเร้น)            │  → Pair Programming, Mentoring
   └──────────────────────┘
 
   เป้าหมาย: เปลี่ยน Tacit → Explicit ให้ได้มากที่สุด
@@ -1278,8 +1278,8 @@ jobs:
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
 │  ONBOARDING:                                                 │
-│  Time to First PR:      █████████░  4 วัน  🟢              │
-│  Time to Productivity:  ████████░░  55 วัน 🟢              │
+│  Time to First PR:      █████████░  4 วัน  🟢               │
+│  Time to Productivity:  ████████░░  55 วัน 🟢               │
 │  Onboarding Sat:        █████████░  4.6/5  🟢              │
 │  90-Day Retention:      ██████████  100%   🟢              │
 │                                                              │
@@ -1291,11 +1291,11 @@ jobs:
 │  Support Reduction:     ███████░░░  -35%   🟢              │
 │                                                              │
 │  Highlights:                                                 │
-│  • New Member 3 คน Productivity เร็ว (≤ 60 วัน)            │
-│  • Tech Talk 6 ครั้งใน Q4                                   │
+│  • New Member 3 คน Productivity เร็ว (≤ 60 วัน)               │
+│  • Tech Talk 6 ครั้งใน Q4                                     │
 │                                                              │
 │  Concerns:                                                   │
-│  • Documentation Freshness ต่ำ (75% vs 80%)                │
+│  • Documentation Freshness ต่ำ (75% vs 80%)                  │
 │  • Bus Factor = 1: Oracle Integration, Database             │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
