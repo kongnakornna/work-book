@@ -1,4 +1,7 @@
 ## คู่มือการทำงาน Application Support — เล่ม 2: Infrastructure & Network Monitoring
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
 
 **เวอร์ชัน:** 1.0 | **สถานะ:** เอกสารบังคับสำหรับสาย Monitoring | **กลุ่มเป้าหมาย:** Monitoring Engineer, Infrastructure Support, Network Support
 

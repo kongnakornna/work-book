@@ -1,4 +1,7 @@
 ## เล่ม 6: AI & Semantic Search — "สาย AI Support"
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
 
 > **กลุ่มงาน:** AI Engineer, Support Engineer ที่ดูแล AI Application
 > **Dependency:** อ่านเล่ม 4 (Log & Time-Series Analytics — เกี่ยวกับ Retrieval) และเล่ม 5 (Kafka/Redis — เกี่ยวกับ Data Pipeline) ก่อน

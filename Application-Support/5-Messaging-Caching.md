@@ -1,4 +1,7 @@
 ## เล่ม 5: Messaging & Caching (Observability) — "ดูแล Pipeline และ Cache ในมุม Monitoring"
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
 
 > **กลุ่มงาน:** Support Engineer, SRE, Data Pipeline Support
 > **Dependency:** อ่านเล่ม 1 (Foundation & Workflow) และเล่ม 3 (Application Metrics & Metrics Platform) ก่อน

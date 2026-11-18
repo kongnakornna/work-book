@@ -1,4 +1,7 @@
 ## คู่มือการทำงาน Application Support — เล่ม 1: Foundation & Workflow
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
 
 **เวอร์ชัน:** 1.0 | **สถานะ:** เอกสารหลัก (Mandatory Reading) | **กลุ่มเป้าหมาย:** ทุกสายงานในทีม Application Support
 

@@ -1,4 +1,7 @@
 ## เล่ม 3: Application Metrics & Metrics Platform — "หัวใจของ Observability"
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
 
 > **กลุ่มงาน:** SRE, Monitoring Engineer, Application Support (Level 2+)
 > **Dependency:** อ่านเล่ม 1 (Foundation & Workflow) และเล่ม 2 (Infrastructure & Network Monitoring) ก่อน

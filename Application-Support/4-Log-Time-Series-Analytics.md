@@ -1,4 +1,7 @@
 ## เล่ม 4: Log & Time-Series Analytics — "ค้นหาและวิเคราะห์ข้อมูลย้อนหลัง"
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
 
 > **กลุ่มงาน:** Support Engineer, Forensic Analyst, SRE
 > **Dependency:** อ่านเล่ม 1 (Foundation & Workflow) ก่อน — แนะนำอ่านเล่ม 3 (Metrics Platform) ประกอบ
