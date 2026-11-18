@@ -1,5 +1,4 @@
-# 🏗️ ระบบบริหารจัดการธุรกิจแบบครบวงจร
-## บน Angular Clean Architecture + Tabler UI Theme
+# 🏗️ ระบบบริหารจัดการธุรกิจแบบครบวงจร บน Angular Clean Architecture 
 
 ---
 
