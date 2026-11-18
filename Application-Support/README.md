@@ -1,4 +1,4 @@
-# 📚 คู่มือ Application Support (ฉบับสมบูรณ์ 11 เล่ม)
+# 📚 คู่มือ Application Support  
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
 **สถานะ:** ต้นฉบับ
