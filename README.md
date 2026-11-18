@@ -40,20 +40,20 @@ Architect	System / Software Architect	อาร์-คิ-เทคต์	สถ
 |------|-----------|---------------|
 
 - เล่ม 1 [คู่มือ Product Owner / Business Analyst => PO, BA, Product Manager](1-Book-PO-BA.md) 
-- เล่ม 2 [คู่มือ Full-Stack Engineer (Frontend + Backend + Python)  => Developer ทุกระดับ](2-Book-FullStack.md) 
-- เล่ม 3 [คู่มือ Solution Architect / Tech Lead  => Architect, Tech Lead, Senior Dev](3-Book-SolutionArchitect.md) 
+- เล่ม 2 [คู่มือ Full-Stack Engineer (Frontend + Backend + Python)  => Developer ทุกระดับ](2-Book-Full-Stack-Engineer.md) 
+- เล่ม 3 [คู่มือ Solution Architect / Tech Lead  => Architect, Tech Lead, Senior Dev](3-Book-Solution-Architect.md) 
 - เล่ม 4 [คู่มือ QA / Test Engineer  => QA, SDET, Tester](4-Book-QA.md) 
 - เล่ม 5 [คู่มือ DevOps / Platform Engineer  => DevOps, SRE, Platform](5-Book-DevOps.md) 
-- เล่ม 6 [คู่มือ Code Reviewer  => Senior Dev, Tech Lead, Peer](6-Book-CodeReviewer.md) 
-- เล่ม 7 [คู่มือ Incident Commander / On-call  => On-call Engineer, SRE, Lead](7-Book-IncidentCommander.md) 
-- เล่ม 8 [คู่มือผู้ใช้ (Finance & Accounting)  => End User, Key User](8-Book-EndUser.md) 
-- เล่ม 9 [คู่มือผู้บริหาร (Management / Stakeholder)  => Manager, Director, Executive](9-Book-Management.md) 
-- เล่ม 10 [คู่มือ AI-Assisted Development (tb-* Skills)  => Developer ทุกคน](10-Book-AIAssistedDevelopment.md) 
-- เล่ม 11 [คู่มือ Hotfix & Rollback  => DevOps, Lead, On-call](11-Book-HotfixRollback.md) 
-- เล่ม 12 [คู่มือ CI/CD & Git Flow  => Developer, DevOps](12-Book-CICD.md) 
+- เล่ม 6 [คู่มือ Code Reviewer  => Senior Dev, Tech Lead, Peer](6-Book-Code-Reviewer.md) 
+- เล่ม 7 [คู่มือ Incident Commander / On-call  => On-call Engineer, SRE, Lead](7-Book-Incident-Commander.md) 
+- เล่ม 8 [คู่มือผู้ใช้ (Finance & Accounting)  => End User, Key User](8-Book-Finance-Accounting.md) 
+- เล่ม 9 [คู่มือผู้บริหาร (Management / Stakeholder)  => Manager, Director, Executive](9-Book-Management -Stakeholder.md) 
+- เล่ม 10 [คู่มือ AI-Assisted Development (tb-* Skills)  => Developer ทุกคน](10-Book-AI-Assisted-Development.md) 
+- เล่ม 11 [คู่มือ Hotfix & Rollback  => DevOps, Lead, On-call](11-Book-Hotfix-Rollback.md) 
+- เล่ม 12 [คู่มือ CI/CD & Git Flow  => Developer, DevOps](12-Book-CI-CD-Git-Flow.md) 
 - เล่ม 13 [คู่มือ RCA (Root Cause Analysis)  => ทุกฝ่าย](13-Book-RCA.md) 
-- เล่ม 14 [คู่มือ Security & Compliance  => Security, Dev, DevOps](14-Book-SecurityCompliance.md) 
-- เล่ม 15 [คู่มือ Knowledge Management & Onboarding  => Tech Lead, HR, ทุกคน](15-Book-KnowledgeManagement.md) 
+- เล่ม 14 [คู่มือ Security & Compliance  => Security, Dev, DevOps](14-Book-Security-Compliance.md) 
+- เล่ม 15 [คู่มือ Knowledge Management & Onboarding  => Tech Lead, HR, ทุกคน](15-Book-KnowledgeManagement-Onboarding.md) 
 
 ---
 
