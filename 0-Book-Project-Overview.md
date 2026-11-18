@@ -1,9 +1,9 @@
-# 📚 ชุดคู่มือการทำงานครบทุกฝ่าย (Complete Multi-Role Work Manuals)
-## Financial & Accounting Technology Solutions
+## 📚 ชุดคู่มือการทำงานครบทุกฝ่าย (Complete Multi-Role Work Manuals)
+## For Financial & Accounting Technology Solutions
 
 ---
 
-```bash
+```text
 
 ตัวย่อ	คำเต็ม (ภาษาอังกฤษ)	คำอ่าน (ภาษาไทย)	คำแปล (ภาษาไทย)
 
