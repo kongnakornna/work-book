@@ -1,0 +1,64 @@
+ช่วยเขียนหนังสือ  คู่มือการทำงาน Application Support   
+
+เน้น 1.อธิบายแบบละเอียด เข้าใจง่าย  2.การติดตั้ง และการตั้งค่า 3.การวิเคราะห์ และแนวทาง แก้ไข การรายงาน ลำดับการ จัดการปัญหา 4.ตัวอย่าง template code 5.ตัวอย่าง template dashboard 
+
+ในเรื่อง ต่อไปนี้
+
+1.CRM ย่อมาจาก Customer Relationship Management 
+2.Host / Infrastructure Metrics 
+3.Application Metrics
+4.Network Metrics
+5.Monitoring Frameworks
+6.Kafka  
+7.Redis cache
+8.ELK Stack (Elasticsearch, Logstash, Kibana): เน้นเรื่องการจัดการ Log และวิเคราะห์ข้อมูล Log แบบ Real-time
+9.Grafana monitoring
+10.Alertmanager
+11.Prometheus: ใช้เก็บค่า Metrics เน้นสำหรับระบบ Cloud-native และ Kubernetes มักใช้คู่กับ Grafana เพื่อทำ Dashboard
+12.Jitter
+13.InfluxDB  Time-Series Database
+14.Vector Database
+15.RAG (Retrieval-Augmented Generation) 
+
+
+Application ERP
+  1.Python DDD (Domain-Driven Design)
+  2.golang DDD (Domain-Driven Design)
+  3.nodejs type script  DDD (Domain-Driven Design)
+  4.databse 
+  4.1 PostgreSQL Database  
+  4.2 Oracle Database
+  4.3 MSSQL Database
+  4.4 MongoDB 
+  5.Redis cache
+  6.Kaffka 
+
+
+โครงสร้าง คู่มือ
+1. บทนำ
+    - วัตุประสงค์
+    - เป้าหมาย
+2. บทนิยาม
+3. บทหัวข้อ 
+    - เรือง
+    - วัตุประสงค์ของหัวข้อนี้
+    - เป้าหมายของหัวข้อนี้
+    - เนื้อหา /รายละเอียด
+    - สรุปย่อ
+    - ประโยชน์ที่ได้รับ
+    - ข้อควรระวัง
+    - ข้อดี
+    - ข้อเสีย
+    - ข้อห้าม ถ้ามี
+    - ตัวอย่าง 
+    - สรุปย่อ เน้า เข้าใจ และจดจำ
+    - แหล่งที่มา แหล่งอ้างอิง
+4. Workflow
+   4.1 PSR 
+   4.2 RCA 
+   4.3 KPI SMART
+5.สรุป
+    - ประโยชน์ที่ได้รับ
+    - ข้อดี
+    - ข้อเสีย
+    - ข้อห้าม ถ้ามี
