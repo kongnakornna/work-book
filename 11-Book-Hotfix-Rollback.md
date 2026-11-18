@@ -1,7 +1,8 @@
 ## 📘 เล่ม 11 (ฉบับขยาย): คู่มือ Hotfix & Rollback
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
-**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
+**สถานะ:** ต้นฉบับ
+**Reference:** https://github.com/kongnakornna/work-book
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 11 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับการแก้ไข Production แบบเร่งด่วน ได้แก่ Hotfix Decision Tree, Approval Workflow, Fast-track Testing, Rollback Strategies (Blue-Green/Canary/K8s/DB), Database Migration Hotfix, Communication Protocol, Verification Checklist, Post-Hotfix Procedures, Templates และ Runbooks รายScenario
 

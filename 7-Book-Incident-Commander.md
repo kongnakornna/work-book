@@ -1,7 +1,8 @@
 ## 📘 เล่ม 7 (ฉบับขยาย): คู่มือ Incident Commander / On-call
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
-**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
+**สถานะ:** ต้นฉบับ
+**Reference:** https://github.com/kongnakornna/work-book
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 7 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติที่จำเป็นสำหรับการทำงานจริง ได้แก่ On-call Rotation, Triage Decision Tree, Runbooks รายScenario, Escalation Matrix, Communication Templates, War Room Protocol และ Handover Procedure
 

@@ -1,7 +1,8 @@
 ## 📘 เล่ม 14 (ฉบับขยาย): คู่มือ Security & Compliance
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
-**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
+**สถานะ:** ต้นฉบับ
+**Reference:** https://github.com/kongnakornna/work-book
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 14 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับทุกฝ่ายที่เกี่ยวข้องกับความปลอดภัยของระบบ FinTech & Accounting ได้แก่ Threat Modeling, OWASP Top 10 (Deep Dive), Authentication & Authorization Patterns, Secrets Management, Data Protection & Encryption, Security Testing, Secure SDLC, Compliance Frameworks (PDPA/GDPR/PCI-DSS/SOX/ISO 27001), Security Incident Response, Audit & Evidence, Templates และ KPIs
 

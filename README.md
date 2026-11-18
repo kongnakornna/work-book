@@ -3,7 +3,8 @@
 
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
-**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
+**สถานะ:** ต้นฉบับ
+**Reference:** https://github.com/kongnakornna/work-book
 
 ---
 ตัวย่อ	คำเต็ม (ภาษาอังกฤษ)	คำอ่าน (ภาษาไทย)	คำแปล (ภาษาไทย)

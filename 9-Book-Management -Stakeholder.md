@@ -1,7 +1,8 @@
 ## 📘 เล่ม 9 (ฉบับขยาย): คู่มือผู้บริหาร (Management / Stakeholder)
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
-**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
+**สถานะ:** ต้นฉบับ
+**Reference:** https://github.com/kongnakornna/work-book
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 9 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับผู้บริหาร ได้แก่ Governance Structure, KPI Dashboard เชิงลึก, Reporting Cadence (Weekly/Monthly/Quarterly), Decision Frameworks, Budget & Resource Management, Risk Management, Steering Committee Protocol, Change Control, Benefits Realization และ Templates ที่ใช้ได้จริง
 
