@@ -1,7 +1,52 @@
+# 📚 คู่มือ Application Support (ฉบับสมบูรณ์ 11 เล่ม)
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับ
+
+## 📑 สารบัญ (Table of Contents)
+
+### 🏗️ ส่วนนำและหลักการ
+*   [0-Application-Support.md](0-Application-Support.md) - หลักการแบ่งเล่ม, ตารางสรุป, และเส้นทางการอ่าน
+
+### 🧠 สายงาน Monitoring & Observability (Core)
+*   [1-Foundation.md](1-Foundation.md) - **Foundation & Workflow** (PSR, RCA, KPI SMART, Monitoring Frameworks)
+*   [2-Infrastructure-Network-Monitoring.md](2-Infrastructure-Network-Monitoring.md) - **Infrastructure & Network** (Host Metrics, Network Metrics, Jitter)
+*   [3-Metrics-Platform.md](3-Metrics-Platform.md) - **Application Metrics** (RED Method, Prometheus, Grafana, Alertmanager)
+*   [4-Log-Time-Series-Analytics.md](4-Log-Time-Series-Analytics.md) - **Log & TSDB** (ELK Stack, InfluxDB, KQL)
+*   [5-Messaging-Caching.md](5-Messaging-Caching.md) - **Messaging & Caching** (Kafka & Redis Observability)
+
+### 🤖 สายงาน AI & Business Application
+*   [6-AI-Semantic-Search.md](6-AI-Semantic-Search.md) - **AI & Semantic Search** (Vector Database, RAG Pipeline)
+*   [7-CRM-Support.md](7-CRM-Support.md) - **CRM Support** (Org Limits, Integration Health, UX Metrics)
+
+### ⚙️ สายงาน ERP (Developer, DBA, Integration)
+*   [8-ERP-Architecture.md](8-ERP-Architecture.md) - **ERP Architecture (DDD)** (Python, Golang, Node.js TypeScript)
+*   [9-ERP-Database.md](9-ERP-Database.md) - **ERP Database Operations** (PostgreSQL, Oracle, MSSQL, MongoDB)
+*   [10-ERP-Integration-Layer.md](10-ERP-Integration-Layer.md) - **ERP Integration Layer** (Outbox, Saga, Cache-Aside, Redlock)
+
+### 🗂️ เอกสารอ้างอิงและธรรมาภิบาล
+*   [11-Master-Reference-Governance.md](11-Master-Reference-Governance.md) - **Master Index & Glossary** (ดัชนีรวม, อภิธานศัพท์, Version Control, Maintenance Calendar)
+
+---
+
+## 🗺️ เส้นทางการอ่านตามสายงาน (Reading Paths)
+
+| สายงาน | เส้นทางการอ่าน | ผลลัพธ์ |
+| :--- | :--- | :--- |
+| **A: Monitoring Engineer** | [1](1-Foundation.md) → [2](2-Infrastructure-Network-Monitoring.md) → [3](3-Metrics-Platform.md) → [4](4-Log-Time-Series-Analytics.md) → [5](5-Messaging-Caching.md) | ดูแล Monitoring Stack ครบ (Metrics, Logs, Alerts) |
+| **B: Business App Support** | [1](1-Foundation.md) → [3](3-Metrics-Platform.md) → [7](7-CRM-Support.md) | ดูแล CRM พร้อม Monitoring และ Playbook |
+| **C: ERP Developer** | [1](1-Foundation.md) → [3](3-Metrics-Platform.md) → [8](8-ERP-Architecture.md) → [9](9-ERP-Database.md) → [10](10-ERP-Integration-Layer.md) | ออกแบบ ERP ด้วย DDD + Database + Integration |
+| **D: ERP Support (Full-stack)** | [1](1-Foundation.md) → [3](3-Metrics-Platform.md) → [4](4-Log-Time-Series-Analytics.md) → [5](5-Messaging-Caching.md) → [8](8-ERP-Architecture.md) → [9](9-ERP-Database.md) → [10](10-ERP-Integration-Layer.md) | ดูแล ERP ได้ทั้ง Monitoring, DB, Integration |
+| **E: AI Engineer / Support** | [1](1-Foundation.md) → [4](4-Log-Time-Series-Analytics.md) → [5](5-Messaging-Caching.md) → [6](6-AI-Semantic-Search.md) | ดูแล Vector DB และ RAG Pipeline |
+
+---
+
+
 # คู่มือ Application Support ออกเป็นเล่มตามสายงาน
 **ผู้แต่ง:** kongnakorn jantakun  
 **อีเมล:** kongnakornjantakun@gmail.com  
 **สถานะ:** ต้นฉบับ
+
 ## 1. หลักการแบ่งเล่ม
 
 การแบ่งคู่มือออกเป็นเล่มใช้หลักการ **"หนึ่งเล่ม = หนึ่งสายงานที่รับผิดชอบได้จริง"** โดยมีเงื่อนไข:
