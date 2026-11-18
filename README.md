@@ -46,7 +46,7 @@ Architect	System / Software Architect	อาร์-คิ-เทคต์	สถ
 - เล่ม 6 [คู่มือ Code Reviewer  => Senior Dev, Tech Lead, Peer](6-Book-Code-Reviewer.md) 
 - เล่ม 7 [คู่มือ Incident Commander / On-call  => On-call Engineer, SRE, Lead](7-Book-Incident-Commander.md) 
 - เล่ม 8 [คู่มือผู้ใช้ (Finance & Accounting)  => End User, Key User](8-Book-Finance-Accounting.md) 
-- เล่ม 9 [คู่มือผู้บริหาร (Management / Stakeholder)  => Manager, Director, Executive](9-Book-Management -Stakeholder.md) 
+- เล่ม 9 [คู่มือผู้บริหาร (Management / Stakeholder)  => Manager, Director, Executive](9-Book-Management%20-Stakeholder.md) 
 - เล่ม 10 [คู่มือ AI-Assisted Development (tb-* Skills)  => Developer ทุกคน](10-Book-AI-Assisted-Development.md) 
 - เล่ม 11 [คู่มือ Hotfix & Rollback  => DevOps, Lead, On-call](11-Book-Hotfix-Rollback.md) 
 - เล่ม 12 [คู่มือ CI/CD & Git Flow  => Developer, DevOps](12-Book-CI-CD-Git-Flow.md) 
