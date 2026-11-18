@@ -1,4 +1,7 @@
 ## 📘 เล่ม 15 (ฉบับขยาย): คู่มือ Knowledge Management & Onboarding
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 15 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับ Tech Lead, HR และสมาชิกใหม่ ได้แก่ Onboarding Program (30-60-90 วัน), Buddy System, Documentation Standards (Deep Dive), Knowledge Base Structure, Documentation-as-Code, Knowledge Sharing Practices, Training Curriculum, Bus Factor Management, Offboarding, Templates ครบชุด และ KPIs
 

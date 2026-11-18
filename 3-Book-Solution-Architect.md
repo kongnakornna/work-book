@@ -1,5 +1,8 @@
 # 📘 เล่ม 3: คู่มือ Solution Architect / Tech Lead
 ## Financial & Accounting Technology Solutions
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
 
 ---
 # 📑 สารบัญ (Table of Contents)

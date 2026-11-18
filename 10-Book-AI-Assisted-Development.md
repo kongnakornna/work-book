@@ -1,4 +1,7 @@
 ## 📘 เล่ม 10 (ฉบับขยาย): คู่มือ AI-Assisted Development (tb-* Skills)
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 10 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับ Developer ที่ใช้ AI-Assisted Development ผ่าน Skills `tb-*` ได้แก่ Skill Deep-Dive แต่ละตัว, Prompt Patterns, Context Management, ตัวอย่างจริง (Before/After), Anti-Patterns, Fallback เมื่อ AI ผิด, Integration กับ Git/PR และ KPIs
 

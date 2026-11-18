@@ -1,6 +1,10 @@
 ## 📚 ชุดคู่มือการทำงาน Team Software  (Complete Multi-Role Work Manuals)
 ## Financial & Accounting Technology Solutions
 
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
+
 ---
 ตัวย่อ	คำเต็ม (ภาษาอังกฤษ)	คำอ่าน (ภาษาไทย)	คำแปล (ภาษาไทย)
 PO	Product Owner	โพร-ดักต์ โอน-เนอร์	เจ้าของผลิตภัณฑ์

@@ -1,4 +1,7 @@
 ## 📘 เล่ม 12 (ฉบับขยาย): คู่มือ CI/CD & Git Flow
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 12 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับ Developer และ DevOps ได้แก่ Git Flow เชิงลึก, Branch Lifecycle, Commit Convention, CI/CD Pipeline Stages (ครบทุกขั้น), GitHub Actions Workflows จริง, Environment Management, Database Migration Pipeline, Security Scanning, Artifact Management, Deployment Strategies, Monorepo Considerations, Templates และ KPIs
 

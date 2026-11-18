@@ -1,4 +1,7 @@
 ## 📘 เล่ม 8 (ฉบับขยาย): คู่มือผู้ใช้ (Finance & Accounting)
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 8 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับผู้ใช้จริง ได้แก่ Field-by-Field Guide, Business Rules, Approval Workflow, Error Code Reference, Period-End Close, Key User / UAT Guide, FAQ และ Glossary
 

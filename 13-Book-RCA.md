@@ -1,4 +1,7 @@
 ## 📘 เล่ม 13 (ฉบับขยาย): คู่มือ RCA (Root Cause Analysis)
+**ผู้แต่ง:** kongnakorn jantakun  
+**อีเมล:** kongnakornjantakun@gmail.com  
+**สถานะ:** ต้นฉบับสมบูรณ์ (ส่วนที่ 1, 2 และภาค 1–3)
 
 > **หมายเหตุ:** เอกสารนี้เป็นฉบับขยายของเล่ม 13 ใน Master Index โดยเพิ่มรายละเอียดเชิงปฏิบัติสำหรับการวิเคราะห์หาสาเหตุราก ได้แก่ RCA Types & Triggers, 6-Step Process (Deep Dive), Tools ขั้นสูง (5 Whys, Fishbone, FTA, Kepner-Tregoe, Apollo), Timeline Reconstruction, Evidence Collection, Blameless Culture, Contributing Factors, Action Planning, Postmortem Protocol, Templates ครบชุด และ KPIs
 
