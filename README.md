@@ -28,7 +28,8 @@ Architect	System / Software Architect	อาร์-คิ-เทคต์	สถ
 
 | เล่ม | ชื่อคู่มือ | กลุ่มเป้าหมาย |
 |------|-----------|---------------|
-| **เล่ม 1** | คู่มือ Product Owner / Business Analyst | PO, BA, Product Manager |
+
+| [**เล่ม 1** | คู่มือ Product Owner / Business Analyst | PO, BA, Product Manager](1-Book-PO-BA) |
 | **เล่ม 2** | คู่มือ Full-Stack Engineer (Frontend + Backend + Python) | Developer ทุกระดับ |
 | **เล่ม 3** | คู่มือ Solution Architect / Tech Lead | Architect, Tech Lead, Senior Dev |
 | **เล่ม 4** | คู่มือ QA / Test Engineer | QA, SDET, Tester |
