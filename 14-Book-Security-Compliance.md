@@ -69,17 +69,17 @@
 
   ┌──────────────────────┐
   │  CONFIDENTIALITY     │  ข้อมูลเห็นเฉพาะผู้มีสิทธิ์
-  │  (ความลับ)           │  → Encryption, Access Control
+  │  (ความลับ)            │  → Encryption, Access Control
   └──────────┬───────────┘
              │
   ┌──────────┴───────────┐
   │  INTEGRITY           │  ข้อมูลไม่ถูกแก้ไขโดยไม่ได้รับอนุญาต
-  │  (ความถูกต้อง)       │  → Hash, Signature, Audit Log
+  │  (ความถูกต้อง)         │  → Hash, Signature, Audit Log
   └──────────┬───────────┘
              │
   ┌──────────┴───────────┐
   │  AVAILABILITY        │  ข้อมูลพร้อมใช้เมื่อต้องการ
-  │  (ความพร้อมใช้)      │  → Backup, Redundancy, DDoS Protection
+  │  (ความพร้อมใช้)        │  → Backup, Redundancy, DDoS Protection
   └──────────────────────┘
 ```
 
@@ -149,10 +149,10 @@
         ┌──────────────┼──────────────┐
         │              │              │
         ▼              ▼              ▼
-  ┌──────────┐  ┌──────────┐  ┌──────────┐
-  │ Security │  │   SOC    │  │   DPO    │
+  ┌──────────┐  ┌──────────┐  ┌────────────┐
+  │ Security │  │   SOC    │  │   DPO      │
   │ Engineer │  │ (24/7)   │  │(Compliance)│
-  └──────────┘  └──────────┘  └──────────┘
+  └──────────┘  └──────────┘  └────────────┘
         │              │
         ▼              ▼
   ┌──────────┐  ┌──────────┐
@@ -1776,12 +1776,12 @@ audit_logger.info(
 │  Compliance Audit:    ██████████  Pass  🟢                 │
 │                                                              │
 │  Highlights:                                                 │
-│  • ไม่มี Critical Vulnerability ใน 3 เดือน                 │
+│  • ไม่มี Critical Vulnerability ใน 3 เดือน                    │
 │  • Phishing Click Rate ลดจาก 12% → 3%                      │
 │                                                              │
 │  Concerns:                                                   │
 │  • High Vulnerabilities ใน Dev Dependencies (3)             │
-│  • ต้องเพิ่ม Pen Test ก่อน Release ใหญ่                     │
+│  • ต้องเพิ่ม Pen Test ก่อน Release ใหญ่                         │
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
 ```
