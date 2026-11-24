@@ -105,29 +105,23 @@
 ---
 
 **เล่มที่ 1: ระบบธุรกรรมทางการเงินและบัญชี**
-📄 [1-Book-Financial-Transaction-and-Accounting-System.md](file:///1-Book-Financial%20-ransaction-and-Accounting-System.md) *(36 KB)*
+📄 [1-Book-Financial-Transaction-and-Accounting-System.md](1-Book-Financial%20-ransaction-and-Accounting-System.md) 
 *(ครอบคลุม: ระบบการเงิน, บัญชีคู่, หนี้, ดอกเบี้ยทบต้น, Barter Trade)*
 
 **เล่มที่ 2: ความน่าเชื่อถือของระบบธุรกรรม**
-📄 [2-Book-Reliability-of-Transaction-Systems-ACID.md](file:///2-Book-Reliability-of-Transaction-Systems-ACID.md) *(34 KB)*
+📄 [2-Book-Reliability-of-Transaction-Systems-ACID.md](2-Book-Reliability-of-Transaction-Systems-ACID.md) 
 *(ครอบคลุม: ACID, Constraints, MVCC, WAL, Crash Recovery, Idempotency)*
 
 **เล่มที่ 3: Audit และการตรวจสอบย้อนกลับ**
-📄 [3-Book-Audit-And-Traceability.md](file:///3-Book-Audit-And-Traceability.md) *(40 KB)*
+📄 [3-Book-Audit-And-Traceability.md](3-Book-Audit-And-Traceability.md) 
 *(ครอบคลุม: Audit Log, Tamper-evident, Transaction Cycles, COSO/SOX)*
 
 **เล่มที่ 4: สถาปัตยกรรมข้อมูลและประสิทธิภาพ**
-📄 [4-Book-Data-Efficiency-And-Technology-Selection.md](file:///4-Book-Data-Efficiency-And-Technology-Selection.md) *(58 KB)*
+📄 [4-Book-Data-Efficiency-And-Technology-Selection.md](4-Book-Data-Efficiency-And-Technology-Selection.md) 
 *(ครอบคลุม: JSON vs Protobuf, B-Tree Index, Big O, KPI ค้าปลีก/POS)*
 
 **เล่มที่ 5: การกำกับดูแลและการปฏิบัติตามข้อกำหนด**
-📄 [5-Book-Methodology-for-creating-manuals.md](file:///5-Book-Methodology-for-creating-manuals.md) *(35 KB)*
+📄 [5-Book-Methodology-for-creating-manuals.md](5-Book-Methodology-for-creating-manuals.md) 
 *(ครอบคลุม: Governance, IMS, Unified Control Library, KPI/SMART)*
 
 ---
-
-### 💡 ข้อสังเกตเพิ่มเติม:
-จากไฟล์ `5-Book-Methodology-for-creating-manuals.md` ที่คุณแนบมาล่าสุด ชื่อไฟล์ (Methodology for creating manuals) กับเนื้อหาข้างใน (Governance & Compliance) **ไม่ตรงกัน** ครับ
-*   ชื่อไฟล์สื่อถึง "ระเบียบวิธีเขียนคู่มือ" (ซึ่งตรงกับ เล่ม 5 ใน README ฉบับแรกที่เราคุยกัน)
-*   แต่เนื้อหาข้างในคือ "การกำกับดูแล" (Governance)
- 
