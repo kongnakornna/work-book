@@ -92,3 +92,42 @@
 3.  **แหล่งอ้างอิงปฐมภูมิ:** ทุกเล่มอ้างอิงจากมาตรฐานสากล (PostgreSQL, Oracle, AWS, IBM, IFRS, COSO, NIST) ทำให้เนื้อหามีความน่าเชื่อถือและนำไปใช้งานจริงในระดับ Enterprise ได้
 
 > **หมายเหตุ:** เนื้อหาในแต่ละเล่มถูกออกแบบให้มีโครงสร้างแบบเดียวกัน (บทนำ → บทนิยาม → หลักการทำงาน → Workflow PSR → บทสรุป → กรณีศึกษา → แหล่งอ้างอิง) เพื่อความสม่ำเสมอในการอ่านและค้นหาข้อมูล
+
+นี่คือลิงก์อ้างอิงสำหรับเอกสารทั้ง 5 เล่ม (และ README) ที่อยู่ในระบบของคุณครับ 
+
+*(หมายเหตุ: ลิงก์เหล่านี้เป็น Path ของไฟล์ที่อยู่ในเครื่อง/ระบบหลังบ้านของคุณ หากต้องการให้คนอื่นกดเปิดได้จริงบนอินเทอร์เน็ต แนะนำให้นำไฟล์ `.md` ไปอัปโหลดบน GitHub, Notion หรือ Google Drive ครับ)*
+
+### 📚 ชุดคู่มือ: ระบบธุรกรรมที่เชื่อถือได้ (Reliable Transaction Systems Handbook)
+
+**สารบัญและแผนที่นำทาง (Index & Navigation)**
+🔗 [README.md](file:///README.md) - *หน้าปก แผนที่เชื่อมโยง และภาพรวมของทั้ง 5 เล่ม*
+
+---
+
+**เล่มที่ 1: ระบบธุรกรรมทางการเงินและบัญชี**
+📄 [1-Book-Financial-Transaction-and-Accounting-System.md](file:///1-Book-Financial%20-ransaction-and-Accounting-System.md) *(36 KB)*
+*(ครอบคลุม: ระบบการเงิน, บัญชีคู่, หนี้, ดอกเบี้ยทบต้น, Barter Trade)*
+
+**เล่มที่ 2: ความน่าเชื่อถือของระบบธุรกรรม**
+📄 [2-Book-Reliability-of-Transaction-Systems-ACID.md](file:///2-Book-Reliability-of-Transaction-Systems-ACID.md) *(34 KB)*
+*(ครอบคลุม: ACID, Constraints, MVCC, WAL, Crash Recovery, Idempotency)*
+
+**เล่มที่ 3: Audit และการตรวจสอบย้อนกลับ**
+📄 [3-Book-Audit-And-Traceability.md](file:///3-Book-Audit-And-Traceability.md) *(40 KB)*
+*(ครอบคลุม: Audit Log, Tamper-evident, Transaction Cycles, COSO/SOX)*
+
+**เล่มที่ 4: สถาปัตยกรรมข้อมูลและประสิทธิภาพ**
+📄 [4-Book-Data-Efficiency-And-Technology-Selection.md](file:///4-Book-Data-Efficiency-And-Technology-Selection.md) *(58 KB)*
+*(ครอบคลุม: JSON vs Protobuf, B-Tree Index, Big O, KPI ค้าปลีก/POS)*
+
+**เล่มที่ 5: การกำกับดูแลและการปฏิบัติตามข้อกำหนด**
+📄 [5-Book-Methodology-for-creating-manuals.md](file:///5-Book-Methodology-for-creating-manuals.md) *(35 KB)*
+*(ครอบคลุม: Governance, IMS, Unified Control Library, KPI/SMART)*
+
+---
+
+### 💡 ข้อสังเกตเพิ่มเติม:
+จากไฟล์ `5-Book-Methodology-for-creating-manuals.md` ที่คุณแนบมาล่าสุด ชื่อไฟล์ (Methodology for creating manuals) กับเนื้อหาข้างใน (Governance & Compliance) **ไม่ตรงกัน** ครับ
+*   ชื่อไฟล์สื่อถึง "ระเบียบวิธีเขียนคู่มือ" (ซึ่งตรงกับ เล่ม 5 ใน README ฉบับแรกที่เราคุยกัน)
+*   แต่เนื้อหาข้างในคือ "การกำกับดูแล" (Governance)
+ 
